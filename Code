@@ -1,0 +1,6 @@
+#writing our first program
+
+#hello world is a universal program used when learning new language.
+
+print("hello , world")
+
