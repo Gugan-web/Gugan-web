@@ -21,5 +21,5 @@ I am a passionate developer with a keen interest in building innovative solution
 
 ## Contact
 - Email: t.gugan2005@gmail.com  
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/gugan)  
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/gugan69)  
 - GitHub: [GitHub Profile](https://github.com/Gugan-web)  
