@@ -25,5 +25,5 @@ Let’s connect!
 
 ## Contact
 - Email: t.gugan2005@gmail.com  
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/gugan69)  
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/gugant)  
 - GitHub: [GitHub Profile](https://github.com/Gugan-web)  
