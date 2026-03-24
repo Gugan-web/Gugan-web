@@ -19,7 +19,7 @@ jobs:
           node-version: '24'
 
       - name: Generate snake svg
-        uses: Platane/snk/svg-only@v4  # Updated from @v3
+        uses: uses: Platane/snk/svg-only@main  # Updated from @v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
