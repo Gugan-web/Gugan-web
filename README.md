@@ -42,11 +42,26 @@
 
 ## 🤖 AI Stack
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<!-- Core DL -->
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<!-- Data + ML -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/keras.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/numpy.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
+
+<!-- CV -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opencv.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
+
+<!-- LLM / Agents -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
+
+<!-- Custom icons (fallbacks) -->
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="48" style="border-radius:8px;" title="LangGraph"/>
+<img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" height="48" style="border-radius:8px;" title="Ollama"/>
+
 </p>
 
 ---
