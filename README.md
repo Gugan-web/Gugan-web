@@ -1,7 +1,9 @@
-![Snake animation](https://github.com/Gugan-web/Gugan-web/blob/main/path/to/snake_animation.svg)  
+# README
 
-# GitHub Analytics  
+This is the full original README content...
 
-![Language stats](https://github.com/Gugan-web/Gugan-web/blob/main/path/to/language_stats_image.png)  
+## GitHub Analytics
+Here are the analytics...
 
-Here is the updated snake animated contribution graph
+## Contribution Graph
+![Snake animation](https://github.com/Gugan-web/Gugan-web/blob/main/.github/snake.svg)
