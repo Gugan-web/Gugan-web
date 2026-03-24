@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/gugan69"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://www.leetcode.com/6t0sk0zyzk"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/></a>
 <a href="https://www.hackerrank.com/czepxfod"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/tguganvguh"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" height="40"/></a>
+<a href="https://auth.geeksforgeeks.org/user/tguganvguh"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="40" style="background-color:white; padding:6px; border-radius:8px;"/></a>
 </p>
 
 ---
