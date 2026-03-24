@@ -50,9 +50,9 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico"/>
-<img src="https://img.shields.io/badge/LangGraph-Agent%20Framework-black?style=for-the-badge"/>
-<img src="https://ollama.com/public/ollama.png"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
 
 </p>
 
