@@ -44,7 +44,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <img src="https://cdn.worldvectorlogo.com/logos/opencv-icon.svg" height="48"/>
-<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg" height="48"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/>
 </p>
 
