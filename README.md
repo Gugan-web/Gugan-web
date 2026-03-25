@@ -69,6 +69,7 @@
 <img src="https://img.shields.io/badge/Ollama-Local_LLMs-grey?style=for-the-badge"/>
 
 </p>
+
 ---
 
 # 🚀 Featured Projects 
