@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Gugan-web&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=gugan-web&label=Profile%20views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/github/followers/gugan-web?label=Followers&style=flat&color=0e75b6" />
+
+<img src="https://img.shields.io/github/stars/gugan-web?affiliations=OWNER&label=Total%20Stars&style=flat&color=0e75b6" />
 </p>
 
 ---
@@ -43,28 +47,18 @@
 ## 🤖 AI Stack
 <p align="center">
 
-<!-- Core DL -->
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<!-- Data + ML -->
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/keras.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/numpy.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
-
-<!-- CV -->
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opencv.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
-
-<!-- Hugging Face -->
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
-
-<!-- Transformers (no logo → badge) -->
+<img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge"/>
 
-<!-- LLM / Agents -->
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" height="48" style="background-color:white; padding:6px; border-radius:8px;"/>
-
-<!-- Modern tools (badges to avoid broken icons) -->
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ollama-Local_LLMs-grey?style=for-the-badge"/>
 
@@ -108,7 +102,15 @@
 
 ---
 
-> 💡 Tip: Replace these with your actual GitHub repo links (VERY IMPORTANT)
+<br/>
+
+## Leetcode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/6t0sk0zyzk?theme=dark&ext=heatmap" />
+</p>
+
+<br/>
 
 ---
 
