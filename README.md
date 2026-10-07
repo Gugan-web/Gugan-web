@@ -19,7 +19,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Pre-final year ECE student focused on **AI + Embedded Systems**
+- 🎓 Final year ECE student focused on **AI + Embedded Systems**
 - 🤖 Building with **LLMs, RAG, AI Agents, Agentic AI**
 - ⚡ Strong in **DSA, System Design & Problem Solving**
 - 🔍 Interested in **AI Research + Real-world Systems**
