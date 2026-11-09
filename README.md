@@ -107,7 +107,7 @@
 ## Leetcode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/6t0sk0zyzk?theme=dark&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Gugant?theme=dark&ext=heatmap" />
 </p>
 
 <br/>
