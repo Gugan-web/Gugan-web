@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gugan</h1>
 
 <h3 align="center">
-AI Engineer | Agentic AI | LLMs | Building Intelligent Systems
+ECE student | Agentic AI | LLMs | Building Intelligent Systems
 </h3>
 
 <p align="center">
@@ -10,8 +10,6 @@ AI Engineer | Agentic AI | LLMs | Building Intelligent Systems
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=gugan-web&label=Profile%20views&color=0e75b6&style=flat" />
-
-<img src="https://img.shields.io/github/followers/gugan-web?label=Followers&style=flat&color=0e75b6" />
 
 <img src="https://img.shields.io/github/stars/gugan-web?affiliations=OWNER&label=Total%20Stars&style=flat&color=0e75b6" />
 </p>
@@ -30,7 +28,7 @@ AI Engineer | Agentic AI | LLMs | Building Intelligent Systems
 ## Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/gugan69"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://www.leetcode.com/6t0sk0zyzk"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/></a>
+<a href="https://www.leetcode.com/Gugant"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/></a>
 <a href="https://www.hackerrank.com/czepxfod"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40"/></a>
 <a href="https://auth.geeksforgeeks.org/user/tguganvguh"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="40" style="background-color:white; padding:6px; border-radius:8px;"/></a>
 </p>
