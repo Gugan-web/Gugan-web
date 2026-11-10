@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gugan</h1>
 
 <h3 align="center">
-🚀 AI Engineer | Agentic AI | LLMs | Building Intelligent Systems
+AI Engineer | Agentic AI | LLMs | Building Intelligent Systems
 </h3>
 
 <p align="center">
@@ -18,16 +18,16 @@
 
 ---
 
-## 🧠 About Me
-- 🎓 Final year ECE student focused on **AI + Embedded Systems**
-- 🤖 Building with **LLMs, RAG, AI Agents, Agentic AI**
-- ⚡ Strong in **DSA, System Design & Problem Solving**
-- 🔍 Interested in **AI Research + Real-world Systems**
-- 📫 Reach me: **t.gugan2005@gmail.com**
+## About Me
+- Final year ECE student focused on **AI + Embedded Systems**
+- Building with **LLMs, RAG, AI Agents, Agentic AI**
+- Strong in **DSA, System Design & Problem Solving**
+- Interested in **AI Research + Real-world Systems**
+- Reach me: **t.gugan2005@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/gugan69"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://www.leetcode.com/6t0sk0zyzk"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/></a>
@@ -37,14 +37,14 @@
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,go,html,css,linux,docker,kubernetes,aws,gcp,firebase,mysql,git,jenkins,bash" />
 </p>
 
 ---
 
-## 🤖 AI Stack
+## AI Stack
 <p align="center">
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -66,9 +66,9 @@
 
 ---
 
-# 🚀 Featured Projects 
+# Featured Projects 
 
-### 🧠 AI Projects
+### AI Projects
 
 #### 🔹 AI Agent System
 - Built autonomous AI agents using LLMs
@@ -86,7 +86,7 @@
 
 ---
 
-### 💻 Software / Systems Projects
+### Software / Systems Projects
 
 #### 🔹 Home Automation System
 - IoT-based smart control system
@@ -114,15 +114,15 @@
 
 ---
 
-## 🔥 What I'm Currently Doing
-- 🚀 Building **Agentic AI systems**
-- 🧠 Learning **advanced LLM architectures**
-- 📚 Exploring **RAG, KAG & AI pipelines**
-- ⚡ Practicing **DSA & system design**
+## What I'm Currently Doing
+- Building **Agentic AI systems**
+- Learning **advanced LLM architectures**
+- Exploring **RAG, KAG & AI pipelines**
+- Practicing **DSA & system design**
 
 ---
 
-## 💡 Vision
+## Vision
 > "I aim to build intelligent systems that can think, reason, and act autonomously."
 
 ---
